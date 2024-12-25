@@ -7,7 +7,7 @@ API
    lumache
 
 
-Let me try LaTeX:  .. math:: c^2=a^2+b^2
+Let me try LaTeX:  :math:`\frac{ \sum_{t=0}^{N}f(t,k) }{N}`
 
 .. math::
 
